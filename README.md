@@ -1,7 +1,7 @@
 # Cyber+ Programming-language
 A powerful, fast and secure programming language made for CyberSecurity and Ethical hacking that can 
 be used by every person interested in Cyber security
-It is made for making Cyber security - ETHICAL, EASY and ENJOYABLE
+It is made for making Cyber security - ETHICAL, EASY and ENJOYABLE.
 It is easy, powerful and FAST!
 You can get like images from down
 <img width="1348" height="703" alt="Ethical hacking CB1" src="https://github.com/user-attachments/assets/d8251b17-109b-487c-947b-c01bf837e0bc" />
